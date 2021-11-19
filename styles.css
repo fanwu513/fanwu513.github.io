@@ -40,17 +40,14 @@
 }
 
 .get-in-touch-information{
-  position: relative;
+  position: absolute;
   left:500px;
-  top:100px;
+  top:500px;
 }
 
 .text-area{
   position: relative;
   right: 4px;
-  width: 20000px;
-  height: 100px;
-  
 }
 
 
