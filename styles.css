@@ -27,9 +27,31 @@
   font-size: xx-large;
 }
 
-.top-right {
+.description {
   position: absolute;
   top: 8px;
   right: 16px;
   font-size: xx-large;
 }
+
+.get-in-touch{
+  text-align: center;
+  font-size: 30px;
+}
+
+.get-in-touch-information{
+  position: relative;
+  left:500px;
+  top:100px;
+}
+
+.text-area{
+  position: relative;
+  right: 4px;
+  width: 20000px;
+  height: 100px;
+  
+}
+
+
+
